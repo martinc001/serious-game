@@ -4,7 +4,7 @@ package
 	import flash.events.Event;
 	import org.flixel.*;
 	
-	[SWF(width="640", height="480", backgroundColor="#000000")]
+	[SWF(width="1000", height="600", backgroundColor="#FFFFFF")]
 	/**
 	 * ...
 	 * @author Serieus Game Team
@@ -14,7 +14,7 @@ package
 		
 		public function Main() {
 			
-			super(320, 240, PlayState, 2);
+			super(1000, 4000, MenuState, 1);
 		}
 		
 	}

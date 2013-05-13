@@ -1,0 +1,27 @@
+1A. Welkom, fijn dat u op tijd bent. Wat kan ik u aanbieden? Koffie, thee?
+1B. Goedemorgen! Heeft u het makkelijk kunnen vinden?
+1C. Dag, u bent de laatste vandaag. Zullen we gelijk beginnen?
+2A. U behoort tot de zes geselecteerde kandidaten. U bent vast benieuwd naar de procedure en de loop van dit gesprek. Zal ik beginnen met kort een paar dingen uit te leggen?
+2B. We hebben zes kandidaten vandaag. Laat ik beginnen met de procedure uit te leggen?
+2C. We hebben zes gesprekken vandaag. U heeft de procedure gekregen. Heeft u daar nog vragen over?
+3A. U heeft ervaring zie ik in uw C.V. Wat maakt deze functie aantrekkelijk voor u?
+3B. U heeft ervaring zie ik in uw C.V. Wat maakt u geschikt voor deze functie?
+3C. Waarom vindt u uzelf geschikt voor deze functie?
+4A. U schrijft dat u goed met boze klanten om kunt gaan. Kunt u een voorbeeld geven van een situatie waarin u dat goed heeft opgelost en hoe u dat deed?
+4B. U schrijft dat u goed met boze klanten om kunt gaan. Wat voor klanten zijn dat? Geef me een voorbeeld.
+4C. U denkt dus dat u goed met boze klanten om kunt gaan. Hoe komt u hierbij?
+5A. U kunt inderdaad goed met boze klanten omgaan,. Die hebben we hier regelmatig. Er zijn misschien nog veel meer klanten die veel tijd nodig hebben om te beslissen, die houden de boel vaak op. Hoe ga je daar mee om?
+5B. Leuke oplossing. We hebben hier ook vaak te maken met mensen die veel dralen en extra tijd nodig hebben om te beslissen. Zelf als er anderen wachten. Wat doe je in zo’n geval?
+5C. Boze klanten hebben we nu gehad maar hoe zit het met dralende klanten? Mensen die aldoor maar niet kunnen beslissen? Dat is ook moeilijk toch?
+6A. Je bent dus klantgericht. Dat is prettig voor ons werk. Dit werk is natuurlijk een beetje anders dan een winkel. Wij zijn een overheidsorganisatie en moeten ook regelmatig mensen teleurstellen. Hoe zou jij slecht nieuws vertellen?
+6B. Je bent dus beleefd en respectvol. Wij zijn een overheidorganisatie en dat is anders dan een winkel. Je moet ook regelmatig slecht nieuws geven hier. Hoe zou jij dat aanpakken?
+6C. Je hebt ervaring in een winkel maar het is hier geen winkel. Klanten zijn hier een stuk lastiger en dan komt het niet zomaar goed. Hoe geef jij slecht nieuws?
+7A. We komen aan het eind van het gesprek. Alle vragen die we zelf hadden zijn goed aan de orde gekomen. Heb jij zelf nog vragen of opmerkingen?
+7B. We zijn aan het eind van het gesprek. Heb jij zelf nog vragen of opmerkingen? Vragen over de arbeidsvoorwaarden komen wat ons betreft aan de orde in een eventueel vervolggesprek.
+7C. We zijn aan het eind van het gesprek. Je hoort van ons over een paar dagen of we je uitnodigen voor een tweede gesprek. Dank voor je komst.
+8A. vraag 8a
+8B. vraag 8b
+8C. vraag 8c
+9A. vraag 9a
+9B. vraag 9b
+9C. vraag 9c
